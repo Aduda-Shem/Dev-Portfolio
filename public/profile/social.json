@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/shem-aduda/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Aduda-Shem"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:shemaduda001@gmail.com"
+        }
+    ]
+}

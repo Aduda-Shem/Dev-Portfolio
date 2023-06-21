@@ -1,0 +1,241 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.header {
+  font-size: 3em;
+  font-weight: bold;
+  margin-bottom: 25px;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-custom {
+  font-size: large;
+  background-color: #fff;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar__link {
+  margin-left: 0.75em;
+  margin-right: 0.75em;
+  font-size: 1em;
+  cursor: pointer;
+  text-decoration: none;
+  color: #555;
+  letter-spacing: .1em;
+  text-indent: .3em;
+  border-bottom: 3px solid transparent;
+  transition: all ease-in-out .2s;
+}
+
+.navbar__link:hover {
+  color: #666;
+  border-bottom-color: #666;
+}
+
+.navbar__link--active {
+  color: #000;
+  border-bottom-color: #000;
+}
+
+.MainApp {
+  margin-top: 8vh;
+  height: 90vh;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.section-content-container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.Typewriter {
+  display: inline-block;
+}
+
+.Typewriter__wrapper {
+  font-size: xx-large;
+  font-weight: bold;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Typewriter__cursor {
+  font-size: xx-large;
+  font-weight: bold;
+  color: #333;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+section.timeline-card-content {
+  justify-content: center;
+}
+
+section.timeline-card-content p.card-title {
+  font-size: 1.5em;
+  margin-top: 25px;
+}
+
+section.timeline-card-content p.card-sub-title {
+  font-size: 1.25em;
+  margin-top: 10px;
+}
+
+section.timeline-card-content div.card-description > p {
+  font-size: 1.1em;
+  margin-top: 10px;
+  font-weight: 500;
+}
+
+
+.social {
+  position: relative;
+  margin-top: 60px;
+}
+
+.social a {
+  display: inline-block;
+  margin-right: 10px;
+  font-size: 1.5em;
+  color: #666;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.social a:hover {
+  color: #333;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  .navbar__link {
+    margin-left: 0.4em;
+    margin-right: 0.4em;
+    font-size: 0.9em;
+    cursor: pointer;
+    letter-spacing: .1em;
+    text-indent: .2em;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar__link::after {
+    background: none;
+    content: "";
+    display: none;
+    margin-top: 0;
+    height: 0;
+    width: 0;
+  }
+
+  .navbar__link--active::after {
+    width: 0;
+  }
+  
+  .navbar__link--active:hover::after {
+    width: 0;
+  }
+
+  .navbar__link:hover::after {
+    width: 0;
+  }
+}
+
+.App {
+  background-image: linear-gradient(#000 50%, #090909 50%);
+}
+
+.header {
+  text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 15px #00FF00;
+}
+
+.navbar-custom {
+  box-shadow: 0 2px 4px rgba(0, 255, 0, 0.2);
+}
+
+.navbar__link:hover {
+  color: #00FF00;
+  border-bottom-color: #00FF00;
+  text-shadow: 0 0 5px #00FF00;
+}
+
+.navbar__link--active {
+  color: #00FF00;
+  border-bottom-color: #00FF00;
+  text-shadow: 0 0 5px #00FF00;
+}
+
+
+
+.Typewriter__wrapper {
+  text-shadow: 0 0 5px #00FF00, 0 0 10px #00FF00, 0 0 15px #00FF00;
+}
+
+.Typewriter__cursor {
+  text-shadow: none;
+  color: #00FF00;
+}
+
+section.timeline-card-content {
+  background-color: #090909;
+  border: 1px solid #00FF00;
+  padding: 20px;
+  box-shadow: 0 0 5px #00FF00;
+}
+
+section.timeline-card-content p.card-title {
+  color: #00FF00;
+}
+
+section.timeline-card-content p.card-sub-title {
+  color: #00FF00;
+}
+
+section.timeline-card-content div.card-description > p {
+  color: #00FF00;
+}
+
+.social a {
+  color: #0F0;
+}
+
+.social a:hover {
+  color: #00FF00;
+  text-shadow: 0 0 5px #00FF00;
+}
+.inlineChild {
+  display: inline-block;
+  font-family: 'Courier New', monospace;
+  color: #0F0;
+}
+
+.terminalSymbol {
+  color: #00FF00;
+}
