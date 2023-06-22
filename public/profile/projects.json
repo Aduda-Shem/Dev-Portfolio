@@ -4,7 +4,7 @@
         {
             "image" : "images/projects/net.png",
             "title": "Visitor Management System",
-            "bodyText": "- A Multitenancy Django web and flutter mobile application for Building Management, Real estate Management and Visitor management\n -  Real-time Chat Capabilities\n - Invoice Generation\n - Users: - Building Owner, Company Admin, Employees, Security.\n - Generating QR Codes and scanning. \n - Real Estate.\n Parking Management".,
+            "bodyText": "- A Multitenancy Django web and flutter mobile application for Building Management, Real estate Management and Visitor management\n -  Real-time Chat Capabilities\n - Invoice Generation\n - Users: - Building Owner, Company Admin, Employees, Security.\n - Generating QR Codes and scanning. \n - Real Estate. \n Parking Management",
            
             "tags" : [
                 "Python - Django",
