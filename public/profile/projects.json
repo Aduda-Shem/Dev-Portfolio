@@ -1,30 +1,9 @@
 {
     "projects" : [
-        {
-            "image" : "images/projects/cooling.png",
-            "title": "Cooling-system-LTD-mobile-application-and-web-admin-interface",
-            "bodyText": "- A Mobile and a Web based application system for a cooling system\n -  Login: Users can create an account or sign in to an existing account using their email and password.\n - Dashboard: Provides an overview of all users and their registration status.\n - Settings: Allows admins to manage user accounts and customize system settings.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Aduda-Shem/Cooling-system-LTD-mobile-application-and-web-admin-interface"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://granhmtechbytes.000webhostapp.com/northstar/admin/login.php"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "PHP",
-                "CSS",
-                "JavaScript"
-            ]
-        },
-
+        
         {
             "image" : "images/projects/net.png",
-            "title": "Netbot Visitor Management System",
+            "title": "Visitor Management System",
             "bodyText": "- A Multitenancy Django web and flutter mobile application for Building Management, Real estate Management and Visitor management\n -  Real-time Chat Capabilities\n - Invoice Generation\n - Users: - Building Owner, Company Admin, Employees, Security.\n - Generating QR Codes and scanning. \n - Real Estate",
            
             "tags" : [
@@ -52,7 +31,27 @@
                 "CSS"
             ]
         },
-     
+        {
+            "image" : "images/projects/cooling.png",
+            "title": "Cooling-system-LTD-mobile-application-and-web-admin-interface",
+            "bodyText": "- A Mobile and a Web based application system for a cooling system\n -  Login: Users can create an account or sign in to an existing account using their email and password.\n - Dashboard: Provides an overview of all users and their registration status.\n - Settings: Allows admins to manage user accounts and customize system settings.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Aduda-Shem/Cooling-system-LTD-mobile-application-and-web-admin-interface"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://granhmtechbytes.000webhostapp.com/northstar/admin/login.php"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "PHP",
+                "CSS",
+                "JavaScript"
+            ]
+        },     
 
         {
             "image" : "images/projects/goal.png",
