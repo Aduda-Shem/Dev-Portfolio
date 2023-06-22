@@ -6,21 +6,24 @@
             "cardSubtitle":"Kenya Methodist University - KeMU",
             "cardDetailedText": "Software Engineering",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/kemu.jpeg"
             }
         },
         {
             "title": "Nov 2022",
             "cardTitle": "Cloud and Network Security",
             "cardSubtitle":"United States International University",
-            "cardDetailedText": ""
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/usiu.png"
+            }
         },
         {
             "title": "2023",
             "cardTitle": "IBM Cybersecurity Analyst Specialization",
-            "cardSubtitle":"CISCO Networking Academy",
+            "cardSubtitle":"Coursera",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/coursera.png"
             }
         },
         {
@@ -28,7 +31,7 @@
             "cardTitle": " Certificate of Cloud Security Knowledge V4.1",
             "cardSubtitle":"CISCO Networking Academy",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/cisco.png"
             }
         }
     ]
