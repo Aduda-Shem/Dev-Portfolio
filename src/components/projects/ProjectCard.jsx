@@ -16,13 +16,17 @@ const styles = {
   },
   cardStyle: {
     borderRadius: 10,
+    height: 600,
+    width: 400,
+
   },
   cardImageStyle: {
     objectFit: 'cover',
-    height: 50,
+    height: 180,
+    width: 180,
   },
   cardTitleStyle: {
-    fontSize: 24,
+    fontSize: 20,
     fontWeight: 700,
   },
   cardTextStyle: {
