@@ -23,7 +23,6 @@ const styles = {
   cardImageStyle: {
     objectFit: 'cover',
     height: 180,
-    width: 180,
   },
   cardTitleStyle: {
     fontSize: 20,
