@@ -17,7 +17,6 @@ const styles = {
   cardStyle: {
     borderRadius: 10,
     height: 600,
-    width: 400,
 
   },
   cardImageStyle: {
