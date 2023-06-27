@@ -1,0 +1,26 @@
+{
+    "title": "Deploying a multi-container application to Azure Kubernetes Services",
+    "charset": "utf-8",
+    "description": "Azure Kubernetes Service (AKS) is the quickest way to use Kubernetes on Azure. Azure Kubernetes Service (AKS) manages your hosted Kubernetes environment, making it quick and easy to deploy and manage containerized applications without container orchestration expertise. It also eliminates the burden of ongoing operations and maintenance by provisioning, upgrading, and scaling resources on demand, without taking your applications offline. Azure DevOps helps in creating Docker images for faster dep",
+    "url": "http://localhost:2368/deploying-a-multi-container-application-to-azure-kubernetes-services/",
+    "published_time": "2022-11-22T15:19:32.000Z",
+    "modified_time": "2022-11-22T15:40:17.000Z",
+    "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM4fHxjbG91ZCUyMHNlcnZpY2VzfGVufDB8fHx8MTY2OTEzMDI1Mw&ixlib=rb-4.0.3&q=80&w=2000",
+    "author": {
+      "name": "aduda",
+      "url": "http://localhost:2368/author/aduda/",
+      "sameAs": [
+        "https://www.linkedin.com/in/shem-aduda/",
+        "https://twitter.com/aduda_shem"
+      ]
+    },
+    "publisher": {
+      "name": "dueresist Tech Space",
+      "url": "http://localhost:2368/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "http://localhost:2368/content/images/2022/11/logo-1.webp"
+      }
+    }
+  }
+  
