@@ -6,6 +6,7 @@
             "workType": "Full-time",
             "workDescription": [
                 "Developed a modern visitor management system that utilizes multitenancy, replacing the conventional visitor logs and streamlining the check-in process. Additionally, implemented a real-time system using Django and Daphne Channels to enhance the functionality and responsiveness of the system. This real-time system allows for instant updates and notifications, ensuring efficient communication between Company, hosts, and administrators.",
+                "Integrated a real estate module into the visitor management system, expanding its capabilities to cater specifically to the needs of real estate businesses. This integration allows for seamless management of property viewings, scheduling appointments, and tracking visitor activity within the real estate context.",
                 "Utilized Python, Django, Postgres, and ReactJS to build and deploy dynamic and scalable websites.",
                 "Designed and implemented mobile applications using Dart and Flutter.",
                 "Developed wireframes using Figma that served as a blueprint for the development of UI/UX designs.",
