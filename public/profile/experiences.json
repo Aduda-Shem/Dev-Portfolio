@@ -5,11 +5,11 @@
             "subtitle": "Netbot Solutions LTD",
             "workType": "Full-time",
             "workDescription": [
-                "Developed a modern visitor management system that utilizes multitenancy, replacing the conventional visitor logs and streamlining the check-in process.",
+                "Developed a modern visitor management system that utilizes multitenancy, replacing the conventional visitor logs and streamlining the check-in process. Additionally, implemented a real-time system using Django and Daphne Channels to enhance the functionality and responsiveness of the system. This real-time system allows for instant updates and notifications, ensuring efficient communication between visitors, hosts, and administrators.",
                 "Utilized Python, Django, Postgres, and ReactJS to build and deploy dynamic and scalable websites.",
                 "Designed and implemented mobile applications using Dart and Flutter.",
                 "Developed wireframes using Figma that served as a blueprint for the development of UI/UX designs.",
-                "Conducted assessments and various tests to improve the user experience of the application.",
+                "Conducted assessments and various tests to improve the user experience of the application."
             ],
             "dateText": "02/2023 – Present"
         }
