@@ -14,5 +14,19 @@
             ],
             "dateText": "02/2023 – Present"
         }
+        {
+            "title": "ICT INTERN",
+            "subtitle": "NCPB, Ke",
+            "workType": "Internship",
+            "workDescription": [
+                "Provided desktop end-user support to clients ensuring 70% issues were resolved within 12 hours.",
+                "Configured hardware and networking systems, improving systems efficiency and reliability.",
+                "Conducted vulnerability assessment using various tools, identifying and mitigating potential security risks.",
+                "Assisted in the implementation of new IT systems, improving productivity across the organization.",
+                "Contributed to the development and maintenance of IT policies and procedures, improving system security andcompliance",
+                "Designed and architected Cisco Packet Tracer network infrastructure to meet organizational requirements, emphasizing scalability, performance, and security."
+            ],
+            "dateText": "05/2022 – 11/2022"
+        }
     ]
 }
