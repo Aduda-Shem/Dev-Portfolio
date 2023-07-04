@@ -5,14 +5,28 @@
             "subtitle": "Netbot Solutions LTD",
             "workType": "Full-time",
             "workDescription": [
-                "Developed a modern visitor management system that utilizes multitenancy, replacing the conventional visitor logs and streamlining the check-in process.",
+                "Developed a modern visitor management system that utilizes multitenancy, replacing the conventional visitor logs and streamlining the check-in process. Additionally, implemented a real-time system using Django and Daphne Channels to enhance the functionality and responsiveness of the system.",
+                "Integrated a real estate module into the visitor management system, expanding its capabilities to cater specifically to the needs of real estate businesses.",
                 "Utilized Python, Django, Postgres, and ReactJS to build and deploy dynamic and scalable websites.",
                 "Designed and implemented mobile applications using Dart and Flutter.",
                 "Developed wireframes using Figma that served as a blueprint for the development of UI/UX designs.",
-                "Conducted assessments and various tests to improve the user experience of the application.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Conducted assessments and various tests to improve the user experience of the application."
             ],
             "dateText": "02/2023 – Present"
+        },
+        {
+            "title": "ICT INTERN",
+            "subtitle": "NCPB, Ke",
+            "workType": "Internship",
+            "workDescription": [
+                "Provided desktop end-user support to clients ensuring 70% issues were resolved within 12 hours.",
+                "Configured hardware and networking systems, improving systems efficiency and reliability.",
+                "Conducted vulnerability assessment using various tools, identifying and mitigating potential security risks.",
+                "Assisted in the implementation of new IT systems, improving productivity across the organization.",
+                "Contributed to the development and maintenance of IT policies and procedures, improving system security andcompliance",
+                "Designed and architected Cisco Packet Tracer network infrastructure to meet organizational requirements, emphasizing scalability, performance, and security."
+            ],
+            "dateText": "05/2022 – 11/2022"
         }
     ]
 }
